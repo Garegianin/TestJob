@@ -1,6 +1,4 @@
-Задание с https://github.com/fugr-ru/php-laravel.
-
-Задание было выполнено с использованием mysql и OpenServer для бд.
+Выполнено с использованием mysql и OpenServer для бд.
 
 БД называется - testjob1, а таблица - notebook.
 
